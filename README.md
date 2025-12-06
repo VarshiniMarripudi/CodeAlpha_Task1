@@ -1,8 +1,13 @@
 💳 **Credit Scoring Model using Random Forest**
+
 This project builds a machine learning model to predict an individual's creditworthiness using historical financial data from the **German Credit dataset**.
+
 📌 **Objective**
+
 Classify whether a person is **creditworthy** based on features like **income, debts, and payment history**.
+
 🧠 **Approach**
+
 **Preprocessing**
   - One-hot encoding of categorical variables  
   - Train-test split (80/20)  
